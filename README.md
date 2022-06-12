@@ -1,1 +1,1 @@
-Team Zuri Django Project.
+Team Zuri Training Django Project.
